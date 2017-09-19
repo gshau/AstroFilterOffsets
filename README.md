@@ -1,3 +1,3 @@
 # AstroFilterOffsets
 
-[Filter Offset](FilterOffsets.ipynb)
+[Filter offset determination](FilterOffsets.ipynb)
